@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/laughing-lamp/static/css/main.f0d685eb.css",
+    "main.js": "/laughing-lamp/static/js/main.bf1ed3db.js",
+    "index.html": "/laughing-lamp/index.html",
+    "main.f0d685eb.css.map": "/laughing-lamp/static/css/main.f0d685eb.css.map",
+    "main.bf1ed3db.js.map": "/laughing-lamp/static/js/main.bf1ed3db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0d685eb.css",
+    "static/js/main.bf1ed3db.js"
+  ]
+}
