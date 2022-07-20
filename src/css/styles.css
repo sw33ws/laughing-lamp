@@ -1,0 +1,51 @@
+:root {
+    --jet:rgb(49, 47, 47);
+    --gold:rgb(239, 200, 139);
+    --purple:rgb(115, 108, 237);
+    --green:rgb(120, 132, 117);
+}
+
+/* nav text */
+.NavText {
+    color: var(--purple);
+}
+
+/* nav background colors */
+.NavBackground {
+    background-color: var(--gold);
+}
+
+/* nar bar padding */
+.NavPadding-Name {
+    padding-left: 10px;
+}
+
+/* spacing between my name and the nav links */
+.NavPadding {
+    padding-left: 80px;
+}
+
+/* background color */
+.backgroundColor {
+    background-color: var(--green);
+}
+
+/* about me profile picture */
+.ProfileImage {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 90%;
+    padding-left: 80px;
+    padding-top: 80px;
+}
+
+/* about me text positioning */
+.AboutMe-padding {
+    padding-top: 120px;
+}
+
+/* about me text */
+.AboutMe-text {
+    color: var(--jet);
+}

@@ -5,13 +5,13 @@ import React from 'react';
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <ul className="nav nav-tabs">
-      <li className="nav-item">
-        <h1>
+    <ul className="nav nav-tabs NavBackground">
+      <li className="nav-item NavPadding-Name">
+        <h1 className='NavText'>
           Sebastian Gillis
         </h1>
       </li>
-      <li className="nav-item">
+      <li className="nav-item NavPadding">
         <a
           href="#about"
           onClick={() => handlePageChange('About')}
