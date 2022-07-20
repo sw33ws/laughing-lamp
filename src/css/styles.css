@@ -49,3 +49,10 @@
 .AboutMe-text {
     color: var(--jet);
 }
+
+.portfolioImage {
+    margin-top: 10%;
+    margin-left:25%;
+    height: 400px;
+    width: 500px;
+}
