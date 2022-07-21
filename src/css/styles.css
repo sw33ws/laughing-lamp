@@ -56,3 +56,14 @@
     height: 400px;
     width: 500px;
 }
+
+/* Resume div */
+
+.Resume {
+    padding-top: 5%;
+    padding-left: 5%;
+}
+
+.Resume-text {
+    padding-left: 2%;
+}
