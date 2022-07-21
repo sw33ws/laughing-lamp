@@ -69,6 +69,9 @@
     padding-left: 2%;
 }
 
-.btn {
-    background-color: var(--purple);
+/* footer */
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
 }
