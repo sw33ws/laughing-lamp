@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/laughing-lamp/static/css/main.bc18a344.css",
-    "main.js": "/laughing-lamp/static/js/main.c8b7d246.js",
+    "main.js": "/laughing-lamp/static/js/main.e72ab9f0.js",
     "static/media/LinkedIn_Picture.jpg": "/laughing-lamp/static/media/LinkedIn_Picture.7de880f4a0ebbaa43d42.jpg",
     "static/media/goldDevs.png": "/laughing-lamp/static/media/goldDevs.8e849f2cd797dce9f32c.png",
     "static/media/zelda.jpg": "/laughing-lamp/static/media/zelda.215f05fff84ced55be64.jpg",
     "index.html": "/laughing-lamp/index.html",
     "main.bc18a344.css.map": "/laughing-lamp/static/css/main.bc18a344.css.map",
-    "main.c8b7d246.js.map": "/laughing-lamp/static/js/main.c8b7d246.js.map"
+    "main.e72ab9f0.js.map": "/laughing-lamp/static/js/main.e72ab9f0.js.map"
   },
   "entrypoints": [
     "static/css/main.bc18a344.css",
-    "static/js/main.c8b7d246.js"
+    "static/js/main.e72ab9f0.js"
   ]
 }
