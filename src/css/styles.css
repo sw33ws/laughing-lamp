@@ -59,11 +59,16 @@
 
 /* Resume div */
 
-.Resume {
+.Spacing {
     padding-top: 5%;
     padding-left: 5%;
+    padding-right: 5%;
 }
 
 .Resume-text {
     padding-left: 2%;
+}
+
+.btn {
+    background-color: var(--purple);
 }

@@ -3,7 +3,7 @@ import React from 'react';
 export default function Resume() {
   return (
     <div className='backgroundColor'>
-      <div className='Resume'>
+      <div className='Spacing'>
         <h1>My Resume</h1>
         <div className='Resume-text'>
           <h3>FrontEnd</h3>
