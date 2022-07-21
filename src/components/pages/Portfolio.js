@@ -1,7 +1,8 @@
 import React from 'react';
 import img1 from '../../img/goldDevs.png';
-import img2 from '../../img/zelda.jpg'
-import img3 from '../../img/jade.png'
+import img2 from '../../img/zelda.jpg';
+import img3 from '../../img/jade.png';
+import img4 from '../../img/weatherApp.png';
 
 export default function Portfolio() {
   return (
@@ -15,7 +16,7 @@ export default function Portfolio() {
 
         <div className='col'>
             <a href="https://mighty-hamlet-13053.herokuapp.com/"><img alt='A text editor that can be used at any time' className='portfolioImage ' id="A image of me"src={img3}/></a>
-            
+            <a href="https://sw33ws.github.io/jubilant-memory/"><img alt='A weather app' className='portfolioImage ' id="A image of me"src={img4}/></a>
         </div>
 
       </div>

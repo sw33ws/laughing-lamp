@@ -82,7 +82,14 @@ html, body {
 
 .FooterLogo {
     height: 50px;
-    margin-left: 50%;
     margin-bottom: 1%;
     margin-top: 2%;
+}
+
+.FooterGithub {
+    margin-left: 49%;
+}
+
+.FooterLinkedin {
+    margin-left: 1%;
 }
