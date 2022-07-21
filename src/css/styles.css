@@ -5,6 +5,10 @@
     --green:rgb(120, 132, 117);
 }
 
+html, body {
+    background-color: var(--green);
+}
+
 /* nav text */
 .NavText {
     color: var(--purple);
@@ -63,6 +67,7 @@
     padding-top: 5%;
     padding-left: 5%;
     padding-right: 5%;
+    padding-bottom: 2%;
 }
 
 .Resume-text {
